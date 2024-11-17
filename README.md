@@ -1,7 +1,7 @@
 # Express.js Backend
 
 ## Description
-This is a backend server built using Node.js and Express.js. It is designed to provide a REST API with various routes for your application. The project uses **environment variables** to manage configuration and supports easy setup using **Node Package Manager (npm)**.
+This is a backend server built using Node.js and Express.js. It is designed to provide a REST API with various routes for your application. The project supports easy setup using **Node Package Manager (npm)**.
 
 ---
 
